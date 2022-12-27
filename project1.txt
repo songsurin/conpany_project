@@ -5,8 +5,19 @@ Team 1
 code 
 
 
+<<<<<<< HEAD
+
+'hahaahahahhahhahaaaha'
+=======
 im freshman
 "second"
+<<<<<<< HEAD
 
 hello?
 hi?
+=======
+>>>>>>> 0f841b9a367adbf8fbef32b2cc3052036aafa675
+>>>>>>> c3172f3675f54987bc48cf4a5f7758638b339b06
+
+
+hihihihihihihihi
